@@ -1,0 +1,85 @@
+.fornav-pro{
+    max-width: 1200px;
+    /* border: 2px red solid; */
+    height: 80px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 13px;
+    font-family: 'Roboto';
+    margin-top: 5px;
+}
+
+.qwerty-left{
+    display: flex;
+    gap: 10px;
+}
+.but-qwerty{
+    cursor: pointer;
+    width: 122px;
+    height: 35px;
+    background-color: red;
+    color: white;
+    font-size: 15px;
+    font-weight: 400;
+    border-radius: 100px;
+    border: none;
+    transition: 0.4s;
+}
+.but-qwerty:hover{
+    width: 134px;
+    height: 35px;
+    background-color: red;
+    color: white;
+    font-weight: 400;
+    border-radius: 100px;
+    border: none;
+}
+.master{
+    border-radius: 15px;
+    height: 29px;
+    font-weight: 400;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+}
+.master:hover{
+    border-radius: 15px;
+    height: 29px;
+    font-weight: 400;
+    border: none;
+    cursor: pointer;
+    background-color: #BED9D0;
+}
+.navlinks{
+    text-decoration: none;
+    color: white;
+}
+.ab1{
+    width: 80px;
+    
+}
+.ab2{
+    width: 65px;
+}
+.ab3{
+    width: 95px;
+}
+.ab4{
+    width: 101px;
+}
+.ab5{
+    width: 87px;
+}
+.ab6{
+    width: 96px;
+}
+.ab7{
+    width: 83px;
+}
+.master a{
+    text-decoration: none;
+    color: black;
+}

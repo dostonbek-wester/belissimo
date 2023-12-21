@@ -1,0 +1,47 @@
+.foraddres-user{
+    max-width: 1200px;
+    /* border: 2px red solid; */
+    height: 80px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;   
+    margin-top: 5px;
+    padding: 5px;
+    font-family: "Roboto";
+}
+.button-user{
+    width: 40%;
+    height: 42px;
+    border-radius: 11px;
+    border: none;
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: 500;
+    cursor: pointer;
+}
+.right-user{
+    width: 680px;
+    height: 42px;
+}
+.inp-user{
+    width: 680px;
+    height: 42px;
+    border-radius: 11px;
+    font-family: "Roboto";
+    font-size: 15px;
+    cursor: pointer;
+    font-weight: 500;
+    background-color: rgba(255, 251, 238, 1);
+    border: 1.6px rgba(255, 198, 0, 1) solid;
+    outline: none;
+    padding: 10px;
+    color: rgba(255, 198, 0, 1);
+}
+
+.icon-user{
+    position: absolute;
+    left: 1300px;
+    top: 585px;
+    color: rgba(255, 198, 0, 1);
+}

@@ -1,0 +1,39 @@
+.savatcha-asosiy{
+    width: 500px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 40px;
+    font-family: 'Roboto';
+}
+.savatcha-box{
+    width: 500px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.savatcha-title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 80px;
+}
+
+.savatcha-title button{
+    width: 320px;
+    height: 45px;
+    border-radius: 100px;
+    background-color: #262A2C;
+    color: white;
+    outline: none;
+    border: none;
+    font-size: 15px;
+    font-weight: 500;
+}

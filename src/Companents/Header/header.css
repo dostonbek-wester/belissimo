@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Roboto",sans-serif;
+  }
+
+ 
+.header-qwerty{
+    width: 100%;
+    height: 100px;
+    background-color: white;
+    display: flex;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 50px;
+    max-width: 1200px;
+    /* border: 2px red solid; */
+    margin: auto;
+}
+.forimg{
+    cursor: pointer;
+}
+
+.left{
+    width: auto;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.fortash{
+    display: flex;
+    gap: 15px;
+    cursor: pointer;
+}
+
+.fortash2 h3{
+    font-weight: 300;
+    font-size: 17px;
+    color: rgba(100, 116, 139, 1);
+}
+.fortash2 h2{
+    font-weight: 450;
+    font-size: 18px;
+    color: #047857;
+}
+.number-1174{
+    display: flex;
+    gap: 10px;
+    cursor: pointer;
+}
+.fornomer{
+    display: flex;
+    gap: 60px;
+}
+.foraloqa{
+    display: flex; 
+}
+.foraloqa h3{
+    font-weight: 300;
+    font-size: 17px;
+    color: rgba(100, 116, 139, 1);
+}
+.right{
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.forlogin{
+    padding: 4px;
+    width: auto;
+    gap: 20px;
+    display: flex;
+    align-items: center;
+}
+.forselect{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.gren{
+    width: 85px;
+    height: 42px;
+    background-color: rgba(4, 120, 87, 1);
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 15px;
+    text-decoration: none;
+    cursor: pointer;
+}  
+.header-login{
+    text-decoration: none;
+    color: white;
+}
+
+.gren h3{
+    font-weight: 500;
+}
+.forimgHALAL{
+    cursor: pointer;
+}

@@ -1,0 +1,139 @@
+*{
+    font-family: 'Roboto';
+}
+.footer-katta{
+    width: 100%;
+    height: 304px;
+    background-color: rgba(38, 42, 44, 1);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.footer-kattabox{
+    width: 1200px;
+    height: 224px;
+    display: flex;
+    gap: 40px;
+    margin: auto;
+}
+
+.zz{
+    height: 224px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.footer-box1{
+    width: 250px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 25px;
+    padding: 5px;
+}
+.footer-box1 img{
+    cursor: pointer;
+}
+.footer-box1 h4{
+    font-weight: 350;
+    font-size: 12px;
+
+}
+
+.footer-box2{
+    width: 160px;
+    color: rgba(255, 255, 255, 0.5);
+    gap: 7px;
+    font-size: 15px;
+
+}
+.footer-box2 h4{
+    font-weight: 400;
+}
+.footer-box2 h4:hover{
+    font-weight: 400;
+    color: white;
+    text-decoration: underline;
+}
+
+.footer-box3{
+    width: 160px;
+    color: rgba(255, 255, 255, 0.5);
+    gap: 7px;
+    margin-left: 10px;
+    justify-content: start;
+    font-size: 15px;
+
+}
+.qw{
+    margin-top: 50px;
+}
+.footer-box3 h4{
+    font-weight: 400;
+}
+.footer-box3 h4:hover{
+    font-weight: 400;
+    color: white;
+    text-decoration: underline;
+}
+.footer-box4{
+    margin-left: 50px;
+    width: 280px;
+    gap: 15px;
+    font-size: 15px;
+    display: flex;
+    justify-content: start;
+}
+.footer-pay1{
+    display: flex;
+    align-items: center;  
+    margin-top: 40px;  
+    gap: 20px;
+    cursor: pointer;
+}
+.footer-pay2{
+    display: flex;
+    align-items: center;
+    gap: 60px;
+    cursor: pointer;
+}
+.footer-box5{ 
+    width: 190px;
+    display: flex;
+    align-items: start;
+    justify-content: start;
+    flex-direction: column;
+    font-size: 15px;
+    gap: 15px;
+}
+.footer-box5 h4{
+    margin-top: 50px;
+    color: white;
+    font-weight: 400;
+}
+.footer-icon{
+    display: flex;
+    gap: 30px;
+    color: grey;
+    cursor: pointer;
+}
+
+.immgg{
+    margin-left: 50px;
+    cursor: pointer;
+}
+
+.div-div{
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    color: white;
+    font-weight: 300;
+}
+.div-div h4{
+    font-weight: 350;
+    margin-bottom: 20px;
+}

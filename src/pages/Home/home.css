@@ -1,0 +1,15 @@
+.home-container{
+    max-width: 1200px;
+    margin: auto;
+    width: 100%;
+    font-size: 12px;
+}
+.inner-wrapper{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 50px;
+}
